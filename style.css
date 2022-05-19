@@ -1,8 +1,26 @@
 body{
-background-image: url("paper.gif"); 
- background-color: #cccccc;
+  background-image: url("paper.gif"); 
+  background-color: #cccccc;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
+}
+
+.image {
+  background-image: url(https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+  height: 250px;
+  width: 800px;
+  margin-left: -150px;
+}
+
+.header {
+	padding-top: 100px;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.picture{
+  margin-top: 50px;
 }
 
 .exp-header{
@@ -14,6 +32,7 @@ background-image: url("paper.gif");
 
 h4{
   text-decoration: underline;
+  font-style: italic;
 }
 
 div{
