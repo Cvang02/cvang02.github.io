@@ -40,6 +40,7 @@ div{
 ul {
   list-style-position: inside;
   text-align: center;
+  display: inline-block;
 }
 
 .footer{
